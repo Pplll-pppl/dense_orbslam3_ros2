@@ -3,7 +3,7 @@
   <img src="docs/assets/demo_mapping_result_19s_24s.gif" width="48%" alt="Mapping result preview" />
 </p>
 
-<h1 align="center">ORB-SLAM3 Dense ROS2</h1>
+<h1 align="center">ORB-SLAM3-Dense-ROS2</h1>
 
 <p align="center">
   <a href="README_EN.md">English</a> ·
